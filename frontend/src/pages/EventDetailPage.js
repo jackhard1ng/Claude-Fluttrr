@@ -9,7 +9,6 @@ import {
   MapPin,
   DollarSign,
   Star,
-  Users,
   MessageCircle,
   ChevronDown,
   ChevronUp,
@@ -21,7 +20,6 @@ import {
   Eye,
   Heart,
   CheckCircle,
-  X,
   ExternalLink,
 } from 'lucide-react';
 import EventCard from '../components/common/EventCard';

@@ -6,23 +6,13 @@ import {
   TrendingUp,
   Star,
   ChevronRight,
-  MapPin,
-  Users,
-  Calendar,
-  Clock,
   Compass,
   Award,
   Zap,
-  Coffee,
-  Music,
-  Palette,
-  Dumbbell,
 } from 'lucide-react';
 import EventCard from '../components/common/EventCard';
 import BusinessCard from '../components/common/BusinessCard';
-import Avatar from '../components/common/Avatar';
 import SearchBar from '../components/common/SearchBar';
-import CategoryScroll from '../components/common/CategoryScroll';
 import Header from '../components/layout/Header';
 
 // ---------------------------------------------------------------------------

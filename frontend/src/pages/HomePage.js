@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import {
   ChevronRight,
@@ -8,8 +8,6 @@ import {
   Users,
   Flame,
   Sparkles,
-  ArrowRight,
-  TrendingUp,
 } from 'lucide-react';
 import Header from '../components/layout/Header';
 import EventCard from '../components/common/EventCard';

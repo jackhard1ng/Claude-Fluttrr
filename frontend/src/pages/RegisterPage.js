@@ -26,7 +26,6 @@ import {
   Beer,
   Heart,
   Sun,
-  Briefcase,
   Store,
 } from 'lucide-react';
 import FluttrrLogo from '../components/common/FluttrrLogo';

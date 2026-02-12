@@ -8,7 +8,6 @@ import {
   Globe,
   Star,
   Users,
-  Calendar,
   Clock,
   ChevronDown,
   ChevronUp,
@@ -28,7 +27,6 @@ import {
   Facebook,
   Twitter,
   ExternalLink,
-  Image,
   X,
 } from 'lucide-react';
 import EventCard from '../components/common/EventCard';

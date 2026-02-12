@@ -11,7 +11,6 @@ import {
   Users,
   Star,
   Store,
-  User,
   ChevronRight,
 } from 'lucide-react';
 import Avatar from '../components/common/Avatar';

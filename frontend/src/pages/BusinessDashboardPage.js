@@ -16,7 +16,6 @@ import {
   ChevronDown,
   CheckCircle2,
   Clock,
-  Eye,
 } from 'lucide-react';
 import Avatar from '../components/common/Avatar';
 

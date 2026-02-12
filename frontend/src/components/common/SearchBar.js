@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Search, X, Sliders, Mic } from 'lucide-react';
+import { Search, X, Sliders } from 'lucide-react';
 
 const SearchBar = ({
   placeholder = 'Search events, places, people...',

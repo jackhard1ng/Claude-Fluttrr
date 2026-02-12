@@ -3,7 +3,6 @@ import { useNavigate } from 'react-router-dom';
 import {
   Map,
   List,
-  SlidersHorizontal,
   Sparkles,
   Loader,
   ChevronDown,

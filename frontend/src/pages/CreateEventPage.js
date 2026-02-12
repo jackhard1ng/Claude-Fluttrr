@@ -12,9 +12,7 @@ import {
   X,
   Plus,
   Check,
-  ChevronDown,
   Tag,
-  FileText,
   Image,
   Globe,
   Accessibility,
@@ -24,7 +22,6 @@ import {
   Save,
   Send,
   Sparkles,
-  Info,
 } from 'lucide-react';
 
 // ---------------------------------------------------------------------------

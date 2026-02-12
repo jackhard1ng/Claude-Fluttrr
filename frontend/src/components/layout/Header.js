@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Bell, Search, MapPin, ChevronDown } from 'lucide-react';
 import FluttrrLogo from '../common/FluttrrLogo';

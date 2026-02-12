@@ -1,22 +1,18 @@
-import React, { useState, useEffect } from 'react';
-import { useNavigate, useParams, useLocation } from 'react-router-dom';
+import React, { useState } from 'react';
+import { useNavigate, useParams } from 'react-router-dom';
 import {
   ArrowLeft,
   Settings,
   Edit3,
   MapPin,
   Calendar,
-  Users,
   UserPlus,
   UserCheck,
   MessageCircle,
   Star,
   Bookmark,
-  Heart,
-  Share2,
   Camera,
   CheckCircle2,
-  Clock,
   MoreHorizontal,
 } from 'lucide-react';
 import Avatar from '../components/common/Avatar';

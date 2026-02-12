@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { useNavigate, useParams, useLocation } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 import {
   ArrowLeft,
   Info,
@@ -13,7 +13,6 @@ import {
   Camera,
   Paperclip,
   Mic,
-  X,
 } from 'lucide-react';
 import Avatar from '../components/common/Avatar';
 

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { MapPin, Star, Users, Calendar, Heart, ChevronRight } from 'lucide-react';
+import { MapPin, Star, Users, Calendar, ChevronRight } from 'lucide-react';
 import Avatar from './Avatar';
 
 const categoryIcons = {

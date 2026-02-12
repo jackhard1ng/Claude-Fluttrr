@@ -3,7 +3,6 @@ import { useNavigate } from 'react-router-dom';
 import {
   ArrowLeft,
   ChevronRight,
-  User,
   Mail,
   Phone,
   Lock,
@@ -14,7 +13,6 @@ import {
   UserPlus,
   MapPin,
   Eye,
-  EyeOff,
   Globe,
   Moon,
   Info,

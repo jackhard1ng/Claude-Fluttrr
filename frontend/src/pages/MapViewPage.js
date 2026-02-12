@@ -9,10 +9,8 @@ import {
   MapPin,
   Users,
   Calendar,
-  Clock,
   ChevronUp,
   ChevronDown,
-  Filter,
 } from 'lucide-react';
 
 // ---------------------------------------------------------------------------

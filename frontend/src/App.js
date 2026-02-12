@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import { AuthProvider } from './contexts/AuthContext';
 import { SocketProvider } from './contexts/SocketContext';
 import { ThemeProvider } from './contexts/ThemeContext';
+import BottomNavigation from './components/layout/BottomNavigation';
 
 // Lazy-load pages for code splitting
 const HomePage = React.lazy(() => import('./pages/HomePage'));
@@ -21,9 +22,6 @@ const RegisterPage = React.lazy(() => import('./pages/RegisterPage'));
 const NotificationsPage = React.lazy(() => import('./pages/NotificationsPage'));
 const SearchPage = React.lazy(() => import('./pages/SearchPage'));
 const DiscoverPage = React.lazy(() => import('./pages/DiscoverPage'));
-
-// Layout components
-import BottomNavigation from './components/layout/BottomNavigation';
 
 /**
  * Toast notification container for app-wide notifications.
